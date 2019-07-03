@@ -5,7 +5,7 @@ React SPA that allows a person to build and purchase their own burger.  The fron
 ## Built With
 
 * [React](https://reactjs.org/) - The Framework that was used
-* [Firebase](https://firebase.google.com/) - The cloud service that was used as a backend
+* [Firebase](https://firebase.google.com/) - Cloud service that was used as a backend
 * [Axios](https://github.com/axios/axios) - Used to send asynchronous HTTP requests
 
 ## Contributing
