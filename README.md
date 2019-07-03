@@ -1,4 +1,4 @@
-# Project Title
+# Burger Builder
 
 React SPA that allows a person to build and purchase their own burger.  The front-end of this project was built using the React framework, and uses the Google Firebase cloud service as a backend.  Axios was used to send asynchronous HTTP requests, and Redux was utilized for debugging purposes. This project was written using ES6, HTML, and CSS.  This project was from a course that I enrolled in at Udemy.com
 
